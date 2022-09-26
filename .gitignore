@@ -1,0 +1,6 @@
+.idea
+target
+quote.json
+quotes.txt
+config.properties
+dependency-reduced-pom.xml
