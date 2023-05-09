@@ -1,5 +1,5 @@
 # MotenoServer
-Server for [Simple app with everyday Quotes](https://github.com/shadoweG/Moteno).
+Server for [Simple app with everyday Quotes](https://github.com/shadoweG/Moteno), made by [@BoyBacks](https://github.com/BoyBACKS)
 
 ## Setup
 - Create a folder ex. MotenoServer
